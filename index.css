@@ -21,9 +21,9 @@ img{
 .animate__backInDown{
     color:lightyellow;
     font-weight: bold;
-    font-size: 15vh;
+    font-size: 7vw;
     position: absolute;
-    top:40vh;
+    top:20vh;
     left:5%;
     text-shadow:0.55vw 0.05vw 0px peachpuff ;
     animation-duration: 1.5s;
